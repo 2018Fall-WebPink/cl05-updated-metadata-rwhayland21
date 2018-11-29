@@ -1,0 +1,35 @@
+/*
+*Riley Whayland 
+*October 2, 2018 
+*Favorite Pictures
+
+/* The universal selector */ 
+
+*{
+
+}
+
+/* Body attributes here */ 
+
+body { font-family: Arial, Helvetica, sans-serif;
+    background-color:lightgray;
+                color:black;
+
+}
+
+header {
+    background-color:lightcyan;
+    }
+main {
+    background-color:lightpink;
+    } 
+footer {
+    background-color:lightyellow;
+    }
+h1 { text-decoration: overline; 
+    font-size: 140%;
+    text-align: center;
+    }
+#cookieandicecream { 
+    float: right;
+    vertical-align: text- top;}
